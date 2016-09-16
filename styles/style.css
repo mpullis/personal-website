@@ -1,0 +1,23 @@
+h1 {
+ color:#18B3F2;
+ font-family: "Futura", Helvetica, Sans-Serif;
+}
+
+a {
+	font-family: "Futura", Helvetica, Sans-Serif;
+	color:#632EBB;
+}
+
+body {
+	background-color: #FDF8F7;
+}
+
+p {
+	font-family: "Futura", Helvetica, Sans-Serif;
+}
+
+li {
+	font-size: 144px;
+	color: #fff;
+	margin-left: 100px;
+}
